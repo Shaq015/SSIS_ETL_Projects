@@ -1,0 +1,29 @@
+# Visual Studio / SSIS generated files
+.vs/
+**/.vs/
+bin/
+**/bin/
+obj/
+**/obj/
+*.user
+*.suo
+*.dtproj.user
+*.ispac
+*.database
+
+# Local credentials / configuration
+.env
+.env.*
+*.key
+*.pem
+credentials.*
+secrets.*
+
+# Local database / output artifacts
+*.bak
+*.mdf
+*.ldf
+
+# OS / IDE
+.DS_Store
+Thumbs.db

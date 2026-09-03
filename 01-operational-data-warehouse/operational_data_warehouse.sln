@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Operational Data Warehouse", "operational_data_warehouse\operational_data_warehouse.dtproj", "{6218741A-432C-4C36-A807-AEA4A6C21867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6218741A-432C-4C36-A807-AEA4A6C21867}.Development|Default.ActiveCfg = Development
+		{6218741A-432C-4C36-A807-AEA4A6C21867}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A74596FD-E41C-4753-ABC0-ACCC50B0E57F}
+	EndGlobalSection
+EndGlobal
